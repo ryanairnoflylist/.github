@@ -8,7 +8,7 @@ the group consists of:
 - juniper (they/she)
 - ember (they/them)
 - miley (they/them)
-- arti (she/any)
+- penelope (she/any)
 - awa (she/it)
 
 ## what are we working on?
